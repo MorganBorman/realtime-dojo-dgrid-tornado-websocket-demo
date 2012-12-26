@@ -5,8 +5,10 @@ A demo user management widget using realtime dojo stores and dgrid connected ove
 
 Dependencies
 ------------
-tornado
-sqlalchemy
+
+* python
+* tornado
+* sqlalchemy
 
 Installing dgrid
 ----------------
